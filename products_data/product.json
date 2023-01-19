@@ -1,0 +1,133 @@
+{
+
+    "data": [
+        {
+            "id": 1,
+            "brand": "Dell",
+            "img": "https://images.unsplash.com/photo-1587831990711-23ca6441447b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGVza3RvcCUyMGNvbXB1dGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+            "price": 109000,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+            "category": "PC"
+        },
+        {
+            "id": 2,
+            "brand": "Dell",
+            "img": "https://i.pcmag.com/imagery/roundups/03yEDeTzPo1WxOu5QGWq9Zq-16..v1598476026.jpg",
+            "price": 126000,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+            "category": "PC"
+        },
+        {
+            "id": 3,
+            "brand": "Dell",
+            "img": "https://i.pcmag.com/imagery/reviews/00xTIwo4AQMjnWl4H4ctDCq-1..v1643394203.jpg",
+            "price": 110600,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+            "category": "PC"
+        },
+        {
+            "id": 4,
+            "brand": "Dell",
+            "img": "https://www.pcworld.com/wp-content/uploads/2022/12/dell-g2723h-1.jpg?quality=50&strip=all&w=1024",
+            "price": 145000,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+            "category": "PC"
+        },
+        {
+            "id": 5,
+            "brand": "Dell",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSozXBOt3uZe8oFR1SYyoxJW1nHbpf5OE_WyA&usqp=CAU",
+            "price": 25400,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+            "category": "PC"
+        },
+        {
+            "id": 6,
+            "brand": "AllenWare",
+            "img": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGRlc2t0b3AlMjBjb21wdXRlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "price": 235000,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+            "category": "Laptop"
+        },
+        {
+            "id": 7,
+            "brand": "AllenWare",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH7iaiDECXd7FECAeF9sDVAx_7mYSrf2n5wfNdrOF62JuFU1mdUJyuq6x0Yg1q84uyuVI&usqp=CAU",
+            "price": 250000,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+            "category": "Mobile"
+        },
+        {
+            "id": 8,
+            "brand": "AllenWare",
+            "img": "https://i.dell.com/sites/csimages/App-Merchandizing_Images/all/dbcs-0570-opti-franchise-hero-banner-aio-optiplex-24-7400-desktop-optiplex-7000-mff-sff-1920x1440.png",
+            "price": 101000,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+            "category": "Head_Phones"
+        },
+        {
+            "id": 9,
+            "brand": "Dell",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi6lL1B9hvNTi7pLt0JkRcM46HhPHIZt7mSw&usqp=CAU",
+            "price": 32005,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+            "category": "Speakers"
+        },
+        {
+            "id": 10,
+            "brand": "Dell",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnXZ2Xk60EwPr8oCETuWs7auIAShybA7J8A&usqp=CAU",
+            "price": 351110,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+            "category": "Server"
+        },
+        {
+            "id": 11,
+            "brand": "AllenWare",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSozXBOt3uZe8oFR1SYyoxJW1nHbpf5OE_WyA&usqp=CAU",
+            "price": 37500,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+            "category": "Laptop"
+        },
+        {
+            "id": 12,
+            "brand": "Dell",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFT-4F1LFfam9CEGmN5BdtCQ60mSqWX1IjaQ&usqp=CAU",
+            "price": 199990,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+            "category": "Server"
+        },
+        {
+            "id": 13,
+            "brand": "Dell",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToDAdRznJFAKFPPP2q3sSwv0yz04bk05iyIA&usqp=CAU",
+            "price": 50999,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+            "category": "Tablet"
+        },
+        {
+            "id": 14,
+            "brand": "AllenWare",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZgngruOUnj39mK-R8OR5MnbfGD0EP8kAwgQ&usqp=CAU",
+            "price": 100000,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+            "category": "Tablet"
+        },
+        {
+            "id": 15,
+            "brand": "AllenWare",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z8FLAb1oCfi__JznqhnheSQTB6-GAZeg7U3b3cj7TitsCbyV20BaEdmfeHPSmv1OP_0&usqp=CAU",
+            "price": 750000,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+            "category": "Tablet"
+        },
+        {
+            "id": 16,
+            "brand": "Dell",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSUbp2k6FUVgfq4C_GP53TDKLqQzyNViYvGg&usqp=CAU",
+            "price": 169999,
+            "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
+            "category": "Laptop"
+        }
+    ]
+}

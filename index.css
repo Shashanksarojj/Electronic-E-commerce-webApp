@@ -1,6 +1,6 @@
-body{
-    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
-}
+/* body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} */
 
 .nav {
   display: flex;
@@ -81,4 +81,11 @@ margin-bottom: 2%; */
 }
 .second_hand img {
   width: 3%;
+}
+
+.footer-section{
+background-color: rgb(233, 233, 229);
+margin-bottom: 0px;
+margin-top: 2%;
+padding-top: .2rem;
 }
