@@ -40,4 +40,29 @@
   .nav button {
     border: none;
   }
+
+  #cart-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    gap: 5px;
+  }
+
+  #cart-container>div {
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+
+  #cart-container img {
+   
+    width: 100%;
+    border-radius: 25%;
+  }
+
+  .total{
+    /* margin-top: 8%; */
+    text-align: center;
+  }
   

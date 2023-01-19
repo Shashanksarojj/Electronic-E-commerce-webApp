@@ -7,7 +7,7 @@
             "img": "https://images.unsplash.com/photo-1587831990711-23ca6441447b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGVza3RvcCUyMGNvbXB1dGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
             "price": 109000,
             "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
-            "category": "Laptop"
+            "category": "PC"
         },
         {
             "id": 2,
@@ -15,7 +15,7 @@
             "img": "https://i.pcmag.com/imagery/roundups/03yEDeTzPo1WxOu5QGWq9Zq-16..v1598476026.jpg",
             "price": 126000,
             "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
-            "category": "Mobile"
+            "category": "PC"
         },
         {
             "id": 3,
@@ -23,7 +23,7 @@
             "img": "https://i.pcmag.com/imagery/reviews/00xTIwo4AQMjnWl4H4ctDCq-1..v1643394203.jpg",
             "price": 110600,
             "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
-            "category": "Head_Phones"
+            "category": "PC"
         },
         {
             "id": 4,
@@ -31,7 +31,7 @@
             "img": "https://www.pcworld.com/wp-content/uploads/2022/12/dell-g2723h-1.jpg?quality=50&strip=all&w=1024",
             "price": 145000,
             "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
-            "category": "Speakers"
+            "category": "PC"
         },
         {
             "id": 5,
@@ -39,7 +39,7 @@
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSozXBOt3uZe8oFR1SYyoxJW1nHbpf5OE_WyA&usqp=CAU",
             "price": 25400,
             "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, sequi.",
-            "category": "Smart_TV"
+            "category": "PC"
         },
         {
             "id": 6,
