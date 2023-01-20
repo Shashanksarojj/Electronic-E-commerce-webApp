@@ -21,6 +21,7 @@
 
   .Atitle {
     text-decoration: none;
+    color: gray;
   }
 
   .nav div {
@@ -41,3 +42,12 @@
     border: none;
   }
   
+
+  .contact{
+    margin: 10%;
+    font-size: 50px;
+    color: rgb(186, 186, 14);
+  }
+  .contact p:nth-child(1){
+    color: rgb(235, 144, 144);
+  }
