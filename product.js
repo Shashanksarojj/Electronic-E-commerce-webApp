@@ -1,9 +1,11 @@
 let products = JSON.parse(localStorage.getItem("cart")) || [];
 
+let searchForm = document.querySelector("form");
+
 let allData = [];
 
 function getData() {
-  //console.log("hii")
+
   fetch("./products_data/product.json")
     .then((res) => {
       return res.json();
@@ -11,6 +13,7 @@ function getData() {
     }).then((res) => {
       console.log(res.data);
       allData = [...res.data];
+      console.log("allData:", allData)
       appendData(res.data);
     })
     .catch((err) => {
@@ -58,6 +61,8 @@ function appendData(data) {
 
 }
 
+
+
 // document.getElementById("filter").addEventListener("change", async (e) => {
 
 //   let filterBy = e.target.value;
@@ -79,4 +84,21 @@ function appendData(data) {
 // })
 
 getData();
+
+searchForm.addEventListener("submit", (e) => {
+  e.preventDefault();
+  let searchParams = searchForm.search.value;
+
+  let filtered = allData.filter((element) => {
+    if (
+      element.category.toUpperCase().includes(searchParams.toUpperCase()) ===
+      true
+    ) {
+      return true;
+    } else {
+      return false;
+    }
+  });
+  appendData(filtered);
+});
 
