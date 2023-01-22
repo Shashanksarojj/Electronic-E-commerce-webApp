@@ -18,6 +18,14 @@
     box-shadow: 0 0 7px rgb(0 0 0 / 30%);
     background-color: #f9f9f9;
   }
+  /* #logo{
+    width: 10px;
+    height: 10px;
+  } */
+
+  .nav h1{
+    font-weight: 80;
+  }
 
   form{
     display: flex;
@@ -72,4 +80,6 @@
     /* margin-top: 8%; */
     text-align: center;
   }
+
+
   
