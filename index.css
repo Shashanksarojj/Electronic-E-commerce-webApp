@@ -18,13 +18,17 @@ margin-bottom: 2%; */
   right: 0;
   left: 0;
   z-index: 5;
-   /* -webkit-box-shadow: 0 0 7px rgb(0 0 0 / 30%); */
+  /* -webkit-box-shadow: 0 0 7px rgb(0 0 0 / 30%); */
   box-shadow: 0 0 7px rgb(0 0 0 / 30%);
   background-color: #f9f9f9;
-  
-
+  background: rgb(21, 147, 40);
+  background: radial-gradient(
+    circle,
+    rgba(21, 147, 40, 1) 0%,
+    rgba(4, 23, 153, 1) 100%
+  );
 }
-.nav h1{
+.nav h1 {
   font-weight: 80;
 }
 
@@ -32,14 +36,13 @@ margin-bottom: 2%; */
 
 .Atitle {
   text-decoration: none;
-  color: gray;
-  
+  color:  rgb(216, 213, 213);
 }
 
-form{
-display: flex;
-width: 100%
-/* justify-content: ; */
+form {
+  display: flex;
+  width: 100%;
+  /* justify-content: ; */
 }
 /* form #search-input{
    width: auto; 
@@ -62,6 +65,7 @@ width: 100%
 }
 .nav button {
   border: none;
+  background-color: rgb(55, 225, 225);
 }
 
 .card {
@@ -85,7 +89,7 @@ width: 100%
 }
 
 .banner {
-  background-color: rgb(233, 233, 229);
+  background-color: rgb(180, 180, 178);
   text-align: center;
   font-size: 30px;
   padding: 16px;
@@ -101,15 +105,15 @@ width: 100%
   width: 3%;
 }
 
-.footer-section{
-background-color: rgb(233, 233, 229);
-margin-bottom: 0px;
-margin-top: 2%;
-padding-top: .2rem;
+.footer-section {
+  background-color: rgb(180, 180, 178);
+  margin-bottom: 0px;
+  margin-top: 2%;
+  padding-top: 0.2rem;
 }
 
-.banner1_top{
-   background-color: rgb(233, 233, 229);
+.banner1_top {
+  background-color: rgb(180, 180, 178);
   /* text-align: center; */
   /* margin: 10%; */
   font-size: 50px;
@@ -117,50 +121,49 @@ padding-top: .2rem;
   /* font-weight: 20; */
 }
 
-.banner1_top p{
+.banner1_top p {
   margin-left: 5%;
 }
 
-.banner1{
+.banner1 {
   /* background-color: red; */
   display: flex;
-   background-color: rgb(233, 233, 229);
+  background-color: rgb(180, 180, 178);
   text-align: center;
   font-size: 30px;
   padding: 16px;
   justify-content: space-around;
-  
 }
 
-.static-container{
+.static-container {
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   background-color: #fcfcfc;
   /* margin-top: 5%; */
   padding: 3%;
 }
 
-.h3{
+.h3 {
   text-align: left;
   margin-bottom: 5%;
   border-bottom: 2px solid rgb(236, 234, 234);
 }
 
-.link{
+.link {
   text-decoration: none;
 }
 
-.bottom_share{
+.bottom_share {
   align-items: center;
   align-content: center;
 }
-.bottom_share>h1{
- font-size: 50px;
- font-weight: 20;
+.bottom_share > h1 {
+  font-size: 50px;
+  font-weight: 20;
 }
-.bottom_share>p{
- font-size: 30px;
+.bottom_share > p {
+  font-size: 30px;
 }
 
-.bottom_share_2 > img{
+.bottom_share_2 > img {
   width: 100%;
 }
