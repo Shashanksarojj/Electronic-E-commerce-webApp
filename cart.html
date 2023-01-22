@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,15 +9,19 @@
     <link rel="stylesheet" href="cart.css">
 
 </head>
+
 <body>
     <div class="nav">
         <a class="Atitle" href="./index.html">
             <h1> CompFrat.tech</h1>
         </a>
         <div>
-            <input id="search-input" type="search" placeholder="Search CompFrat" tabindex="0" autocomplete="off">
-            <button type="submit">Search
-            </button>
+            <form>
+                <input placeholder="Search" type="text" id="search" />
+
+                <button type="submit">Search
+                </button>
+            </form>
         </div>
 
         <a class="Atitle" href="./product.html">Product</a>
@@ -24,10 +29,10 @@
         <a class="Atitle" href="./contact.html">Contact Us</a>
 
     </div>
-    
-    
 
-  
+
+
+
     <div id="cart-container">
         <!-- Here Append All the cart Products  -->
     </div>
@@ -35,9 +40,10 @@
     <div class="total">
         <h1 id="total">Total :-<span id="cart-total">0</span></h1>
         <button>Buy Now</button>
-    
+
     </div>
 
 </body>
 <script src="cart.js"></script>
+
 </html>
