@@ -1,3 +1,3 @@
 # plausible-creator-1407
-Construct Week-1 Project(Similar to Dell.com)
+Dell's Website Clone Project which provides world class Digital products to consumer.
 Netlify link - https://incomparable-brioche-889272.netlify.app/
